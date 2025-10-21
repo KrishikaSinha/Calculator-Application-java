@@ -1,17 +1,4 @@
-# Calculator-Application
-
-# 🧮 Calculator Application Using Method Overloading
-
-### 📘 Course Information
-**Course:** Java Programming (ENCS201 / ENCA203 / ENBC205)  
-**Semester:** 3rd  
-**Program:** B.Tech / BCA / BSc  
-**Faculty:** Mr. Vishwanil S  
-**Student:** Krishika Sinha  
-**University:** K.R. Mangalam University  
-**Session:** 2025–26  
-
----
+# 🧮 Calculator-Application
 
 ## 🎯 Project Overview
 This project is developed as part of **Java Programming Assignment 2**.  
@@ -26,6 +13,20 @@ It demonstrates the concept of **method overloading** in Java by implementing a 
 - ➗ **Division** — Divides two integers safely with divide-by-zero exception handling.  
 - 🧠 **Menu-driven Interface** — Interactive console-based user interface.  
 - 🧱 **Object-Oriented Design** — Uses separate classes for logic (`Calculator`) and UI (`CalculatorApplication`).
+
+---
+
+## 🛠 Tech Stack
+
+**Language:** Java  
+**IDE:** Visual Studio Code *(or any Java IDE like IntelliJ IDEA, Eclipse)*  
+
+### Concepts Used:
+- Object-Oriented Programming (OOP)  
+- Method Overloading  
+- Exception Handling  
+- Scanner Class for Input  
+- Control Structures *(if, switch, loops)*  
 
 ---
 
